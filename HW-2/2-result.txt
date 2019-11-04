@@ -1,0 +1,10 @@
+Q2
+(b)
+How many samples(dishes) in trainset: 39774
+How many categories(types of cuisine): 20
+How many unique ingredients: 6714
+(c),(d),(f)
+average acc for 3 fold cross-validation on trainset:
+1. Naive Bayes-Gaussian: 0.3794937938208349
+2. Naive Bayes-Bernoulli: 0.6835876576455521
+3. Logistic Regression: 0.7757586704089684
